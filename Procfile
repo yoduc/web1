@@ -1,1 +1,1 @@
-web: web1
+web: ./web1 -port $PORT
