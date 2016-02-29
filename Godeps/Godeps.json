@@ -1,9 +1,6 @@
 {
 	"ImportPath": "github.com/vdlu/web1",
 	"GoVersion": "go1.6",
-	"Packages": [
-		"github.com/gorilla/mux"
-	],
 	"Deps": [
 		{
 			"ImportPath": "github.com/gorilla/context",
