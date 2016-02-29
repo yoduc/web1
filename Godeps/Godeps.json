@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/vdlu/web1",
+	"GoVersion": "go1.6",
+	"Deps": []
+}
